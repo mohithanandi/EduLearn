@@ -7,19 +7,26 @@ A full-stack educational technology platform built with HTML/CSS/JavaScript fron
 - 🎓 Course catalog with filtering
 - 👥 User authentication system
 - 💬 Student testimonials
-- 📱 Responsive design<img width="1916" height="1003" alt="choose" src="https://github.com/user-attachments/assets/713871a2-5a73-44f1-ad01-32b3f2a54937" />
-
+- 📱 Responsive design
 - 🔍 Search functionality
 - 🎨 Modern UI/UX
 
-## Project Structure<img width="1917" height="1005" alt="home" src="https://github.com/user-attachments/assets/c44061e9-e0ec-457d-b6d5-6d8ad917da52" /><img width="1919" height="900" alt="Popular courses" src="https://github.com/user-attachments/assets/4a07863e-cba4-41d7-8ef7-87d17f2fda80" />
-
-
+## Project Structure
 EduLearn/
 ├── frontend/ # Client-side code
 ├── backend/ # Server-side code
 ├── database/ # SQLite database
 └── docs/ # Documentation
+
+
+<img width="1917" height="1005" alt="home" src="https://github.com/user-attachments/assets/c44061e9-e0ec-457d-b6d5-6d8ad917da52" />
+
+<img width="1916" height="1003" alt="choose" src="https://github.com/user-attachments/assets/713871a2-5a73-44f1-ad01-32b3f2a54937" />
+
+<img width="1919" height="900" alt="Popular courses" src="https://github.com/user-attachments/assets/4a07863e-cba4-41d7-8ef7-87d17f2fda80" />
+
+<img width="1917" height="933" alt="Web end" src="https://github.com/user-attachments/assets/786ea048-ecd6-406e-afc5-626eae2e4f2b" />
+
 
 
 ## Quick Start
@@ -46,26 +53,33 @@ npm run dev
 npm run dev
 
 ## API Endpoints
+
+<img width="1919" height="1027" alt="api" src="https://github.com/user-attachments/assets/90924e93-f14a-4b07-ad99-420666d981c8" />
+
 # Courses
 GET /api/courses - Get all courses
-
 GET /api/courses/category/:category - Get courses by category
-
 GET /api/courses/search?q=query - Search courses
-
 GET /api/courses/:id - Get course by ID
+<img width="1919" height="1025" alt="courses" src="https://github.com/user-attachments/assets/b0020980-a047-4cd7-8ee9-990b736dda7d" />
+
+
 
 # Testimonials
 GET /api/testimonials - Get all testimonials
-
 POST /api/testimonials - Create new testimonial
+<img width="1919" height="1027" alt="testimonals" src="https://github.com/user-attachments/assets/1275d5f3-936b-4d89-b507-15f55227b005" />
+
 
 # Users
 POST /api/users/register - Register new user
-
 POST /api/users/login - User login
-
 GET /api/users/profile - Get user profile (protected)
+<img width="1917" height="1019" alt="users register" src="https://github.com/user-attachments/assets/630259c8-2d90-439b-8bed-989f9c463498" />
+
+
+<img width="1919" height="998" alt="users login" src="https://github.com/user-attachments/assets/cf20e428-a300-4858-b285-d74af53b4a2b" />
+
 
 # Database
 The application uses SQLite with the following tables:
