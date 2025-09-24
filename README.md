@@ -12,7 +12,8 @@ A full-stack educational technology platform built with HTML/CSS/JavaScript fron
 - 🔍 Search functionality
 - 🎨 Modern UI/UX
 
-## Project Structure<img width="1917" height="1005" alt="home" src="https://github.com/user-attachments/assets/c44061e9-e0ec-457d-b6d5-6d8ad917da52" />
+## Project Structure<img width="1917" height="1005" alt="home" src="https://github.com/user-attachments/assets/c44061e9-e0ec-457d-b6d5-6d8ad917da52" /><img width="1919" height="900" alt="Popular courses" src="https://github.com/user-attachments/assets/4a07863e-cba4-41d7-8ef7-87d17f2fda80" />
+
 
 EduLearn/
 ├── frontend/ # Client-side code
