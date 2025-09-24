@@ -11,7 +11,8 @@ A full-stack educational technology platform built with HTML/CSS/JavaScript fron
 - 🔍 Search functionality
 - 🎨 Modern UI/UX
 
-## Project Structure
+## Project Structure<img width="1917" height="1005" alt="home" src="https://github.com/user-attachments/assets/c44061e9-e0ec-457d-b6d5-6d8ad917da52" />
+
 EduLearn/
 ├── frontend/ # Client-side code
 ├── backend/ # Server-side code
@@ -272,10 +273,17 @@ npm start
 Open your browser to http://localhost:5000
 
 ## The application will:
+<img width="1919" height="900" alt="Popular courses" src="https://github.com/user-attachments/assets/d73375eb-66fe-4707-ab37-a8add8de906d" /><img width="1919" height="1027" alt="api" src="https://github.com/user-attachments/assets/43f37f1d-3d09-4e44-a81a-6452266afd20" />
 
-✅ Create the SQLite database automatically
 
-✅ Insert sample courses and testimonials
+✅ Create the SQLite database automatically<img width="1916" height="1003" alt="choose" src="https://github.com/user-attachments/assets/b5d9856c-7e28-4148-af42-f55ff0018eb9" />
+
+<img width="1919" height="1027" alt="testimonals" src="https://github.com/user-attachments/assets/410ffc85-67d9-47b5-97cf-6150f1f592e7" />
+
+✅ Insert sample courses and testimonials<img width="1919" height="1025" alt="courses" src="https://github.com/user-attachments/assets/63588f1d-2ae9-4b85-ba15-e844228edcf8" />
+
+<img width="1919" height="998" alt="users login" src="https://github.com/user-attachments/assets/63da52aa-c09a-45ad-af33-47afed7b543e" />
+<img width="1917" height="1019" alt="users register" src="https://github.com/user-attachments/assets/078052c1-c6a1-41f6-be60-7e719e319012" />
 
 ✅ Start both frontend and backend servers
 
