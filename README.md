@@ -7,7 +7,8 @@ A full-stack educational technology platform built with HTML/CSS/JavaScript fron
 - 🎓 Course catalog with filtering
 - 👥 User authentication system
 - 💬 Student testimonials
-- 📱 Responsive design
+- 📱 Responsive design<img width="1916" height="1003" alt="choose" src="https://github.com/user-attachments/assets/713871a2-5a73-44f1-ad01-32b3f2a54937" />
+
 - 🔍 Search functionality
 - 🎨 Modern UI/UX
 
